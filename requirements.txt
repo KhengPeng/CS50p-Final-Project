@@ -1,0 +1,5 @@
+matplotlib==3.3.4
+nba_api==1.1.14
+numpy==1.24.1
+pandas==1.2.4
+requests==2.25.1
