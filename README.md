@@ -22,7 +22,7 @@ import matplotlib.pyplot as plt
 from nba_api.stats.static import players
 from nba_api.stats.endpoints import playerprofilev2
 ```
-## Input Example:
+## Sample Input:
 Once the program is executed, it will ask users for inputs as shown below.
 ```bash
 How many players do you want to analyse? 3
